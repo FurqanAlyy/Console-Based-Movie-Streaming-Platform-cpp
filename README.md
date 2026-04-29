@@ -120,5 +120,6 @@ Christian Bale
 ---
 
 ## 👨‍💻 Author
-Furqan Ali
+# Furqan Ali
+
 Built as a Data Structures course project in C++.
