@@ -1,4 +1,4 @@
-# 🎬 StreamFlix — C++ Console Streaming Platform
+# 🎬 C++ Console Streaming Platform
 
 A console-based movie streaming platform built in C++ that simulates core features of a real streaming service — user accounts, movie browsing, watch history, watchlists, and trending charts.
 
@@ -120,5 +120,5 @@ Christian Bale
 ---
 
 ## 👨‍💻 Author
-
+Furqan Ali
 Built as a Data Structures course project in C++.
